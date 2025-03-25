@@ -18,6 +18,7 @@ Sam Walton's truck, if he were an Automation Engineer.
 # REQUIREMENTS
 - controlled by PLC
 - 10 mph
+- look like Sam Walton's truck
   
 ---
 
