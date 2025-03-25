@@ -15,6 +15,12 @@ Sam Walton's truck, if he were an Automation Engineer.
 
 ---
 
+# REQUIREMENTS
+- controlled by PLC
+- 10 mph
+  
+---
+
 ### KEY COMPONENTS
 
 #### 1. Programmable Logic Controller (PLC)
